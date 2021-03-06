@@ -1,4 +1,4 @@
-### Hi everyone, Iam Abdelrahman Fared Software Developer.
+### Hi everyone, Iam Abdelrahman Fared a Software Developer.
 
 <img src="https://cdn-images-1.medium.com/max/1024/1*rCXeo6kOg0EYjUzlFAiSkQ.jpeg" raw = true>
 
