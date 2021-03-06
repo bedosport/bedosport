@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi everyone, Iam Abdelrahman Fared Software Developer with experience in C# programming for desktop application, Asp.net web API and have knowledge in Node.js , Android (Java) , Angular and another programming languages for part time needs like (Python, HTML, CSS) . Works on a lot of excited projects like Self Driving Car and OMR. Talented at cultivating collaborative and supportive team environment.![image](https://user-images.githubusercontent.com/17782440/110222682-aae56f80-7edc-11eb-9623-9778e0171f44.png)
+
 
 <!--
 **bedosport/bedosport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
