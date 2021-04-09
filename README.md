@@ -2,7 +2,8 @@
 
 <img src="https://cdn-images-1.medium.com/max/1024/1*rCXeo6kOg0EYjUzlFAiSkQ.jpeg" raw = true>
 
-I have an experience in C# programming for desktop application, Asp.net web API and have knowledge in Node.js , Android (Java) , Angular and another programming languages for part time needs like (Python, HTML, CSS) . Works on a lot of excited projects like Self Driving Car and OMR. Talented at cultivating collaborative and supportive team environment.
+I have good knowledge in C# programming for desktop application, Asp.net and have knowledge in Node.js , Android (Java) , Angular. Works on a lot of excited projects like Self Driving Car and OMR. Talented at cultivating collaborative and supportive team environment.
+![image](https://user-images.githubusercontent.com/17782440/114145685-f5606e80-9916-11eb-8e9d-87c696d425d6.png)
 
 
 <!--
