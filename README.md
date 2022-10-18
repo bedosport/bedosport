@@ -2,7 +2,7 @@
 
 <img src="https://cdn-images-1.medium.com/max/1024/1*rCXeo6kOg0EYjUzlFAiSkQ.jpeg" raw = true>
 
-I have an experience in web development and have knowledge in PHP Laravel, Asp.net Web Api , Android (Java) . Works on a lot of excited projects like Self Driving Car and OMR. Talented at cultivating collaborative and supportive team environment.
+I have an experience in web development using Asp.net Core and have knowledge in PHP Laravel, Android (Java) . Works on a lot of excited projects like Self Driving Car and OMR. Talented at cultivating collaborative and supportive team environment.
 
 
 <!--
