@@ -1,8 +1,8 @@
-### Hi everyone, Iam Abdelrahman Fared a Software Developer.
+### Hi everyone, I am Abdelrahman Fared an adaptable Senior Software Engineer.
 
 <img src="https://cdn-images-1.medium.com/max/1024/1*rCXeo6kOg0EYjUzlFAiSkQ.jpeg" raw = true>
 
-I have an experience in web development using Asp.net Core and have knowledge in PHP Laravel, Android (Java) . Works on a lot of excited projects like Self Driving Car and OMR. Talented at cultivating collaborative and supportive team environment.
+Skilled in delivering customized and optimized solutions.Thrives within tight deadlines by applying agile development strategies. Hardworking software development professional driven to increase team effectiveness. Focused on usability and performance improvements. Proven history of developing useful and efficient projects .I have experience in web development using .NET Core, and knowledge in PHP Laravel and Android (Java). I've worked on exciting projects like CTS, Self-Driving Car, and OMR, and excel at fostering a collaborative and supportive team environment.
 
 
 <!--
